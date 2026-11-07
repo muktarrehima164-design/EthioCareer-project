@@ -1,2 +1,2 @@
-# EthioCareer-project
+# EthioCareer
 Job and Internship managment system for Ethiopians.
