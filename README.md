@@ -5,7 +5,7 @@ Job and Internship managment system for Ethiopians.
 #group 2
 name of group member
 1. rehima muktar       wour/0541/17   (https://github.com/muktarrehima164-design)
-2. yusra yehya         wour/0705/17 
+2. yusra yehya         wour/0705/17   (https://github.com/yusrayahya0544-sys)
 3. newaynesh fsha      wour/0514/17
-4. hikmet abdu         wour/1481/17 (https://github.com/Hikmet99Git)
+4. hikmet abdu         wour/1481/17   (https://github.com/Hikmet99Git)
 5. bereket wasihun     wour/0142/17
