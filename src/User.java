@@ -5,6 +5,15 @@ public class User {
 	protected String fullName;
 	protected String password;
 	protected int userId;
+	
+	//constructor
+	public User(String email,String fullName,String password,int userId)
+	{
+this.email = email;
+this.fullName = fullName;
+this.password = password;
+this.userId = userId;
+	}
 
 
 	public void finalize() throws Throwable {
