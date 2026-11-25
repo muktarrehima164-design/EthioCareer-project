@@ -44,6 +44,25 @@ public class Job sekeer extends User {
 	public ArrayList <Application> viewApplication(){
 		return null;
 		}
-		
-	}
+		// Getter and Setter
+		public String getEducation(){
+			return education;
+		}
+		public void setEducation(String education){
+			this.education = education;
+		}
+		public String getexperince(){
+			return experince;
+		}
+		public void setExperince(String experince){
+			this.experince = experince;
+		}
+        public String getLocation(){
+			return location;
+		}
+         public void setLocation(String experince){
+			this.location = location;
+		}
+
+}
 //end Job sekeer
