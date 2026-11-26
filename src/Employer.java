@@ -63,6 +63,26 @@ public class Employer extends User {
 	public ArrayList<application> viewApplication(int applicationId){
 		return null;
 	}
+//Getter and Setter
+public String getcompanyName(){
+	return companyName;
+}
+public void setcompanyName(String companyName){
+	this.companyName = companyName;
+}
+public String getcompanyEmail(){
+	return companyEmail;
+}
+public void setcompanyEmail(String companyEmail){
+	this.companyEmail = companyEmail;
+}
+public String getcompanyAddress(){
+	return companyAddress;
+}
+public void setcompanyAddress(String companyAddress){
+	this.companyAddress = companyAddress;
+}
 
+}
 
-}//end Employer
+//end Employer
